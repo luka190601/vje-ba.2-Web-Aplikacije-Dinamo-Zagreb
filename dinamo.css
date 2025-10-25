@@ -1,0 +1,42 @@
+.parent
+{
+
+flex-wrap: nowrap;
+display: flex;
+margin-left: 500px;
+}
+.p{
+    display: inline-block;
+    width: 15px;
+}
+.podnaslov
+{
+    flex-wrap: nowrap;
+    display: flex;
+    margin-left: 620px;
+}
+.prvi
+{
+     flex-wrap: nowrap;
+    display: flex;
+    margin-left: 400px;
+}
+.drugi
+{
+ flex-wrap: nowrap;
+    display: flex;
+    margin-left: 400px;   
+    width: 950px;
+}
+.dinamo{
+    flex-wrap: nowrap;
+    display: flex;
+    margin-left: 450px;
+}
+.stadion
+{
+      flex-wrap: nowrap;
+    display: flex;
+    margin-left: 850px;
+    margin-top: -200px;
+}
